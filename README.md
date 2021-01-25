@@ -12,7 +12,7 @@ REAL ESTATE PRICE PREDICTION Using Python &amp; Bengaluru_House_Data.
 
 * All the steps required to execute the project have been mentioned in the .ipynb file.
 
-### This is how the Final Resul will look like.
+### This is how the Final Result will look like.
 ![](RESULT.png)
 
 ### CREDITS
